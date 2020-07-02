@@ -1,0 +1,6 @@
+# 忽略任何目录下名为 .ipynb_checkpoints 的文件夹
+.ipynb_checkpoints/
+# data文件夹存储数据集，所以可以忽略
+data/
+
+!.gitignore
